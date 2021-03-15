@@ -1,5 +1,5 @@
 ---
-title: Plants from Europe
+title: Grasses
 layout: category
 order: 3
 ---
