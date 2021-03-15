@@ -10,7 +10,7 @@ sections:
     content: |
       # Real, beautiful plants right to your door
     actions:
-      - title: See all items
+      - title: See all plants
         url: /store
         arrow: true
         style: primary
