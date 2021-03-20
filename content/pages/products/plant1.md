@@ -11,7 +11,7 @@ default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 1
-category: content/pages/category/bigplants.md
+category: content/pages/category/perennials.md
 ---
 
 # Nulla suscipit

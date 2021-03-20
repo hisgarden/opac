@@ -8,7 +8,7 @@ default_thumbnail_image: images/plant3.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
-category: content/pages/category/cactuses.md
+category: content/pages/category/shrubs.md
 ---
 
 # Curabitur eu tempor

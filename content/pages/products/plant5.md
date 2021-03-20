@@ -10,7 +10,7 @@ default_thumbnail_image: images/plant5.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
 order: 5
-category: content/pages/category/bigplants.md
+category: content/pages/category/perennials.md
 ---
 
 # Vestibulum eget
